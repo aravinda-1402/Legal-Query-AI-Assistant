@@ -1,1 +1,1 @@
-# Legal-Query-AI-Assistant-
+# Legal-Query-AI-Assistant
